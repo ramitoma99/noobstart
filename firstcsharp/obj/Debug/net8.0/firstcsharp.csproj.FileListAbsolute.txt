@@ -1,0 +1,15 @@
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\bin\Debug\net8.0\firstcsharp.exe
+C:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\bin\Debug\net8.0\firstcsharp.deps.json
+C:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\bin\Debug\net8.0\firstcsharp.runtimeconfig.json
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\bin\Debug\net8.0\firstcsharp.dll
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\bin\Debug\net8.0\firstcsharp.pdb
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.AssemblyInfoInputs.cache
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.AssemblyInfo.cs
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.csproj.CoreCompileInputs.cache
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.sourcelink.json
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.dll
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\refint\firstcsharp.dll
+c:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.pdb
+C:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\firstcsharp.genruntimeconfig.cache
+C:\Users\Rami\Desktop\GIthub\noobstart\firstcsharp\obj\Debug\net8.0\ref\firstcsharp.dll
