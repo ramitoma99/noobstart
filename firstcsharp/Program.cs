@@ -1,7 +1,14 @@
-﻿class Prog
+﻿using Programm1;
+class Program
     {
         static void Main()
             {
+                Handy handy1 = new Handy();
+                handy1.makeHandy("phone 3", 3);
+
+                Console.WriteLine(handy1.Name);
+
+
                 /*
                 Console.WriteLine("bitte eingeben: ");
                 int num1 = int.Parse(Console.ReadLine());
